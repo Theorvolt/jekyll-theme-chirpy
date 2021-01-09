@@ -60,7 +60,7 @@ My last example is on functional equations, for which I created two functions, *
 
 ![](https://mathematicalcrap.com/wp-content/uploads/2020/07/RFTest.bmp)
 
-## C
+## Conclusion
 
 It is impossible to have a proper sense of the power of Mathematica unless one is a programmer familiar with the package. This article presents just a few examples from the vast library of functions I created for Mathematical Methods and I found even more so for Specialist Mathematics. My libraries for both subjects barely scratch the surface of what is possible.
 

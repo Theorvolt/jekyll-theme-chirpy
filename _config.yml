@@ -7,14 +7,13 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Sai's blog                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Data science, maths and cybersecurity.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  I do data visualizations, reverse engineering,
+  mathematics of all kinds and also write!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -30,7 +29,6 @@ social:
   email: saikumarmuralikrishnan@gmail.com       # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/Theorvolt       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
