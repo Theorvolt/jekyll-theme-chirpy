@@ -2,7 +2,7 @@
 title: Mathematica and the potential gaming of VCE
 author: Sai kumar Murali Krishnan
 date: 2021-01-08 
-categories: [Wolfram Mathematica, Mathematics, VCE]
+categories: [Wolfram Mathematica]
 tags: [vce,mathematica]
 ---
 
